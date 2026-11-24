@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/jantt-1?utm_medium=integration&utm_source=button&utm_campaign=jantt)
+
 # Jantt on Railway
 
 Deploys [Jantt](https://github.com/AhmadHassan-BTed/Jantt) **v1.1.0**, an open-source (MIT) interactive Gantt chart and project-planning workspace, as a single Railway service.
